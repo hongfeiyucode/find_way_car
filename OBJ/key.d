@@ -1,0 +1,11 @@
+..\obj\key.o: ..\HARDWARE\KEY\key.c
+..\obj\key.o: ..\HARDWARE\KEY\key.h
+..\obj\key.o: ..\SYSTEM\sys\sys.h
+..\obj\key.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\key.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\key.o: D:\mdk511\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\key.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\obj\key.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\obj\key.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\obj\key.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\key.o: ..\SYSTEM\delay\delay.h

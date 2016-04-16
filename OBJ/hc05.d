@@ -1,0 +1,17 @@
+..\obj\hc05.o: ..\HARDWARE\HC05\hc05.c
+..\obj\hc05.o: ..\SYSTEM\delay\delay.h
+..\obj\hc05.o: ..\SYSTEM\sys\sys.h
+..\obj\hc05.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\hc05.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\hc05.o: D:\mdk511\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\hc05.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\obj\hc05.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\obj\hc05.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\obj\hc05.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\hc05.o: ..\SYSTEM\usart\usart.h
+..\obj\hc05.o: D:\mdk511\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\hc05.o: ..\HARDWARE\USART3\usart3.h
+..\obj\hc05.o: ..\HARDWARE\HC05\hc05.h
+..\obj\hc05.o: ..\HARDWARE\LED\led.h
+..\obj\hc05.o: D:\mdk511\ARM\ARMCC\bin\..\include\string.h
+..\obj\hc05.o: D:\mdk511\ARM\ARMCC\bin\..\include\math.h

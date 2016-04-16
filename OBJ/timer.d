@@ -1,0 +1,11 @@
+..\obj\timer.o: ..\HARDWARE\TIMER\timer.c
+..\obj\timer.o: ..\HARDWARE\TIMER\timer.h
+..\obj\timer.o: ..\SYSTEM\sys\sys.h
+..\obj\timer.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\timer.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\timer.o: D:\mdk511\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\timer.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\obj\timer.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\obj\timer.o: D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\obj\timer.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\timer.o: ..\HARDWARE\LED\led.h
