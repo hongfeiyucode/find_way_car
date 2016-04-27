@@ -32,7 +32,7 @@ TIM_TypeDef * PWM_BASE[4] = {	TIM10, TIM11, TIM13, TIM14};
 
 void pwm_start(u32 pwm)
 {
-	PWM_BASE[pwm]->CCR1 = 100;
+	PWM_BASE[pwm]->CCR1 = 65;
 }
 
 void pwm_s(u32 pwm,u32 a)

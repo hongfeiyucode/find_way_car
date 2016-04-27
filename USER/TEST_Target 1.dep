@@ -1,6 +1,6 @@
 Dependencies for Project 'TEST', Target 'Target 1': (DO NOT MODIFY !)
 F (.\startup_stm32f40_41xxx.s)(0x542E6B04)(--cpu Cortex-M4.fp -g --apcs=interwork -I D:\mdk511\ARM\RV31\INC-I D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk511\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include--list ..\obj\startup_stm32f40_41xxx.lst --xref -o ..\obj\startup_stm32f40_41xxx.o --depend ..\obj\startup_stm32f40_41xxx.d)
-F (.\test.c)(0x571244ED)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USMART -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\TPAD -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\HARDWARE\USART3 -I..\HARDWARE\HC05-I D:\mdk511\ARM\RV31\INC-I D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk511\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\test.o --omf_browse ..\obj\test.crf --depend ..\obj\test.d)
+F (.\test.c)(0x571615A7)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USMART -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\TPAD -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\HARDWARE\USART3 -I..\HARDWARE\HC05-I D:\mdk511\ARM\RV31\INC-I D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk511\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\test.o --omf_browse ..\obj\test.crf --depend ..\obj\test.d)
 I (..\SYSTEM\sys\sys.h)(0x53FECC1C)
 I (..\SYSTEM\sys\stm32f4xx.h)(0x53DBA48A)
 I (D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
@@ -22,7 +22,7 @@ I (..\HARDWARE\USART3\usart3.h)(0x544CDD0A)
 I (..\HARDWARE\KEY\key.h)(0x53BB65F4)
 I (D:\mdk511\ARM\ARMCC\include\string.h)(0x53463A44)
 I (motor.h)(0x5699D6C4)
-F (.\motor.c)(0x57123AF3)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USMART -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\TPAD -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\HARDWARE\USART3 -I..\HARDWARE\HC05-I D:\mdk511\ARM\RV31\INC-I D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk511\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\motor.o --omf_browse ..\obj\motor.crf --depend ..\obj\motor.d)
+F (.\motor.c)(0x5716F6A0)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USMART -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\TPAD -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\HARDWARE\USART3 -I..\HARDWARE\HC05-I D:\mdk511\ARM\RV31\INC-I D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk511\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\motor.o --omf_browse ..\obj\motor.crf --depend ..\obj\motor.d)
 I (..\SYSTEM\sys\sys.h)(0x53FECC1C)
 I (..\SYSTEM\sys\stm32f4xx.h)(0x53DBA48A)
 I (D:\mdk511\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
